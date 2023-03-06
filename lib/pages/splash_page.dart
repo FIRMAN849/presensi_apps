@@ -3,7 +3,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:presensi_apps/theme.dart';
+import 'package:presensi_app/theme.dart';
 
 class SplashPage extends StatefulWidget {
   const SplashPage({super.key});
